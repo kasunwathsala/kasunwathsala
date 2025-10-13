@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm Kasun Nilaweera
 
-<!--
-**kasunwathsala/kasunwathsala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer with expertise in building modern web applications. I love creating efficient, scalable solutions and constantly exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email:** wathsala.nilaweera2001@gmail.com
+
+## 💻 Tech Stack
+
+### Frontend
+- **TypeScript** - Type-safe JavaScript development
+- **JavaScript** - Core web development
+- **React** - Building interactive user interfaces
+- **Angular** - Enterprise-grade applications
+
+### Backend
+- **Node.js** - Server-side JavaScript runtime
+- **Spring Boot** - Robust Java-based backend solutions
+
+## 🌱 What I'm Working On
+
+I'm continuously learning and building projects that challenge me to grow as a developer. I believe in writing clean, maintainable code and following best practices.
+
+## 🎯 Interests
+
+- Full-stack development
+- Modern web architectures
+- Cloud technologies
+- Open source contributions
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate on projects, discuss tech, or just say hi!
+
+---
+
+⭐️ From [Kasun Nilaweera](mailto:wathsala.nilaweera2001@gmail.com)
