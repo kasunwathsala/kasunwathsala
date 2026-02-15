@@ -33,7 +33,7 @@
 ## 💻 Full Stack & Backend
 
 <p>
-⚛️ React.js • Next.js • Angular • MERN Stack  
+⚛️ React.js • Next.js • Angular   
 🟢 Node.js • Express.js  
 ☕ Java • Spring Boot • JPA • ASP.NET  
 🔥 Firebase • Clerk • Auth.js  
